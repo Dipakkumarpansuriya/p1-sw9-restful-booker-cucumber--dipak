@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the restful booker app","As a user I am creating authorization token","SUCCESS","2023-01-09T20:10:25.596Z[Europe/London]","0.0","0.71"
+"Testing different request on the restful booker app","As a user I am creating booking and verify booking is made","SUCCESS","2023-01-09T20:10:26.417Z[Europe/London]","0.0","2.44"
+"Testing different request on the restful booker app","As a user I update a booking with firstName","SUCCESS","2023-01-09T20:10:28.926Z[Europe/London]","0.0","0.5"
+"Testing different request on the restful booker app","As a user I updated partial booking with lastName","SUCCESS","2023-01-09T20:10:29.516Z[Europe/London]","0.0","0.53"
+"Testing different request on the restful booker app","As a user I delete the booking","SUCCESS","2023-01-09T20:10:30.121Z[Europe/London]","0.0","0.95"
+"Testing different request on the restful booker app","CRUD Test","SUCCESS","2023-01-09T20:10:31.153Z[Europe/London]","0.0","4.72"
